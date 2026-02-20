@@ -57,7 +57,7 @@ The diagram is split into two parts: deaths before sanitary reforms (right side)
   - `data/Nightingale-mortality.jpg` - Source image (historical diagram)
   - `src/plot_rose.py` - Rose diagram generation script (to be developed)
   - `data/nightingale_computed.csv` - Processed data with calculated radii and areas
-
+  - 
 ## How to Run
 
 ### Digitization App
@@ -83,16 +83,9 @@ The diagram is split into two parts: deaths before sanitary reforms (right side)
    - Save coordinate groups with descriptive names
    - Export all data when complete
 
-### Plotting Script
-
-(To be developed)
-```bash
-python src/plot_rose.py
-```
-
 ## What I Learned
 
-This project taught me that historical data visualization required the same careful attention to precision that modern work does—extracting coordinates from a 160-year-old diagram demanded both technical skill and historical understanding. I gained hands-on experience building interactive GUI applications with Tkinter, managing complex state across user interactions, and thinking about how to make data collection tools intuitive and robust. Most importantly, I learned that great data visualization isn't just about making pretty pictures; Nightingale's rose diagram shows how the right visualization at the right time can literally change the world by making invisible patterns visible and turning abstract numbers into compelling arguments for action.
+This project made me realize that historical data visualization, like modern work, requires meticulous precision—extracting coordinates from a 160-year-old chart, revealing invisible patterns, and transforming abstract numbers into compelling actionable arguments.
 
 ## References
 
