@@ -31,7 +31,7 @@ The diagram is split into two parts: deaths before sanitary reforms (right side)
 
 ## The Visualization
 
-![Rose Diagram](output/nightingale_rose.png)
+![Rose Diagram](assets/nightingale_rose.png)
 
 ## Key Insights
 
